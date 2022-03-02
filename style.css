@@ -1,0 +1,45 @@
+body { color: rgb(226, 43, 43); background-color: pink; }
+
+.box {
+    display:flex ;
+    flex-wrap:wrap;
+justify-content: space-evenly
+
+ }
+
+ .all{
+    display:flex;
+    flex-direction: column;
+    justify-content: first baseline;
+    color: rgb(7, 102, 66);
+    font-size: 20px;
+    text-align: center; 
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
