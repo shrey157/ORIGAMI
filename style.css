@@ -1,9 +1,11 @@
-body { color: rgb(226, 43, 43); background-color: pink; }
+body { color: rgb(226, 43, 43); background-color: #25b1b1; ;}
 
 .box {
     display:flex ;
     flex-wrap:wrap;
 justify-content: space-evenly
+margin
+
 
  }
 
@@ -11,14 +13,10 @@ justify-content: space-evenly
     display:flex;
     flex-direction: column;
     justify-content: first baseline;
-    color: rgb(7, 102, 66);
+    color: #fb3c89;
     font-size: 20px;
     text-align: center; 
     }
-
-
-
-
 
 
 
